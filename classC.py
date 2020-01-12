@@ -1,4 +1,4 @@
-import classB as B
+from classB import B
 class C(B):
 
     def writeC(self):
